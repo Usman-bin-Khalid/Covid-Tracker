@@ -1,5 +1,5 @@
 # covid_tracker
-
+Author : Usman Khalid
 A new Flutter project.
 
 ## Getting Started
