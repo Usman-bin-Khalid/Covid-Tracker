@@ -3,7 +3,7 @@
 **Covid Tracker** is a real-time global and country-wise COVID-19 monitoring app built with **Flutter**.  
 It features clean UI, smooth user experience, and live API integration to provide accurate pandemic insights.  
 
-👉 Repository: [Covid Tracker](https://github.com/Usman-bin-Khalid/Covid-Tracker)
+👉 Repository: [Covid Tracker](https://github.com/Usman-bin-Khalid/Covid-Tracker.git)
 
 ---
 
@@ -64,5 +64,5 @@ It features clean UI, smooth user experience, and live API integration to provid
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Usman-bin-Khalid/Covid-Tracker
+   git clone https://github.com/Usman-bin-Khalid/Covid-Tracker.git
    cd Covid-Tracker
